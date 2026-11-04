@@ -1,6 +1,6 @@
 (function () {
     let allItems = [];
-    let currentCategory = "all";
+    let currentCategory = window.INITIAL_CATEGORY || "all";
     let searchQuery = "";
     let currentSort = "featured";
 
