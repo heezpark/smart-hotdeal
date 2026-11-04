@@ -579,6 +579,53 @@ body {
     cursor: pointer;
 }
 
+/* 구글 SEO 내부 링크 & 쇼핑 가이드 섹션 */
+.seo-guide-section {
+    margin-top: 44px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 24px 28px;
+}
+
+.seo-guide-title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 8px;
+}
+
+.seo-guide-desc {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+}
+
+.seo-archive-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.seo-archive-link {
+    display: inline-block;
+    background: #f1f5f9;
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.84rem;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    transition: all 0.2s ease;
+}
+
+.seo-archive-link:hover {
+    background: var(--text-main);
+    color: #ffffff;
+    border-color: var(--text-main);
+}
+
 /* 6. 푸터 */
 .site-footer {
     background: #0f172a;
