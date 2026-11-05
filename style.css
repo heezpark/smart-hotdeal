@@ -29,6 +29,8 @@ body {
     color: var(--text-main);
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    word-break: keep-all;
+    overflow-wrap: break-word;
 }
 
 .container {
@@ -140,6 +142,7 @@ body {
     padding: 6px 12px;
     border-radius: 999px;
     border: 1px solid #bfdbfe;
+    white-space: nowrap;
 }
 
 .header-cta-link {
@@ -151,6 +154,8 @@ body {
     padding: 7px 14px;
     border-radius: 999px;
     transition: background 0.2s ease;
+    white-space: nowrap;
+    display: inline-block;
 }
 
 .header-cta-link:hover {
@@ -667,14 +672,57 @@ body {
 
 /* 반응형 미디어 쿼리 */
 @media (max-width: 768px) {
+    .site-header {
+        padding: 12px 0;
+    }
+
+    .brand-title {
+        font-size: 1.1rem;
+    }
+
+    .brand-subtitle {
+        font-size: 0.72rem;
+    }
+
+    .logo-icon {
+        width: 36px;
+        height: 36px;
+        font-size: 1.3rem;
+    }
+
+    .update-pill {
+        display: none; /* 모바일 헤더 찌그러짐 방지: 히어로 뱃지에 주차 정보가 있으므로 헤더에서는 생략 */
+    }
+
+    .header-cta-link {
+        font-size: 0.78rem;
+        padding: 7px 12px;
+    }
+
     .hero-card {
         flex-direction: column;
         align-items: flex-start;
-        padding: 24px 20px;
+        padding: 22px 18px;
     }
 
     .hero-title {
         font-size: 1.45rem;
+        word-break: keep-all;
+    }
+
+    .hero-desc {
+        word-break: keep-all;
+        font-size: 0.9rem;
+    }
+
+    .quick-links-bar {
+        width: 100%;
+    }
+
+    .quick-chip {
+        width: 100%;
+        justify-content: center;
+        padding: 11px 16px;
     }
 
     .hero-stats {
