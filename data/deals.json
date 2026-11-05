@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "week_title": "11월 1주차 주간 베스트 핫딜",
   "links": {
     "home": "https://link.coupang.com/a/ioQrUkqKpU",
@@ -8,6 +8,48 @@
     "rocket_wow": "https://link.coupang.com/a/ioQCB0IzGm"
   },
   "items": [
+    {
+      "id": "deal-007",
+      "category": "디지털·가전",
+      "title": "[HOT 테크] AI 스마트 오디오 안경 블루투스 5.4 오픈이어 핸즈프리 선글라스 글래스",
+      "original_price": 189000,
+      "sale_price": 129000,
+      "discount_rate": 32,
+      "rating": 4.8,
+      "review_count": 3420,
+      "is_rocket": true,
+      "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=600&q=80",
+      "ai_comment": "귀를 막지 않는 오픈이어 오디오 시스템과 원터치 AI 비서 연동! 운전·라이딩·야외활동 중 고음질 통화와 음악 감상을 지원하는 트렌드 혁신템입니다.",
+      "affiliate_url": "https://link.coupang.com/a/iqDnLFN7Ia"
+    },
+    {
+      "id": "deal-009",
+      "category": "디지털·가전",
+      "title": "[품절대란 특가] 삼성전자 갤럭시 핏3 스마트 밴드 (수면측정·낙상감지·13일배터리)",
+      "original_price": 89000,
+      "sale_price": 69000,
+      "discount_rate": 22,
+      "rating": 4.9,
+      "review_count": 42800,
+      "is_rocket": true,
+      "image_url": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=600&q=80",
+      "ai_comment": "선명한 40mm 아몰레드 디스플레이와 최대 13일 지속 배터리! 정밀 수면 코칭, 100종 이상 운동 측정 및 낙상 감지 SOS 지원 국민 가성비 스마트밴드입니다.",
+      "affiliate_url": "https://link.coupang.com/a/iqDweRXW0a"
+    },
+    {
+      "id": "deal-008",
+      "category": "디지털·가전",
+      "title": "[베스트셀러] 갤럭시 Z 폴드 풀커버 힌지보호 맥세이프 마그네틱 강화유리 케이스",
+      "original_price": 38000,
+      "sale_price": 23800,
+      "discount_rate": 37,
+      "rating": 4.9,
+      "review_count": 5280,
+      "is_rocket": true,
+      "image_url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=600&q=80",
+      "ai_comment": "힌지 풀커버 자동 보호와 강력한 맥세이프 무선충전 호환! 정밀 마그네틱 설계로 완벽한 그립감과 낙하 충격 보호를 자랑합니다.",
+      "affiliate_url": "https://link.coupang.com/a/iqDqH4cNFs"
+    },
     {
       "id": "deal-001",
       "category": "생필품·자취",
