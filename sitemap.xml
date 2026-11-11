@@ -7,25 +7,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://heezpark.github.io/smart-hotdeal/living-deals.html</loc>
+    <loc>https://heezpark.github.io/smart-hotdeal/baby-deals.html</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://heezpark.github.io/smart-hotdeal/digital-deals.html</loc>
-    <lastmod>2026-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://heezpark.github.io/smart-hotdeal/food-deals.html</loc>
-    <lastmod>2026-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://heezpark.github.io/smart-hotdeal/baby-living-deals.html</loc>
+    <loc>https://heezpark.github.io/smart-hotdeal/pet-deals.html</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
