@@ -1,6 +1,6 @@
 // 로컬 브라우저(file://) 및 정적 웹서버 모두에서 즉시 로드되도록 동기화된 데이터 파일입니다.
 window.DEALS_DATA = {
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "week_title": "11월 2주차 생활·육아·반려동물 실속 특가 베스트",
   "items": [
     {
@@ -13,23 +13,23 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 9920,
       "is_rocket": true,
-      "image_url": "https://image6.coupangcdn.com/image/retail/images/11882295958108-30de4f82-1867-4071-93d7-25c907b0b370.jpg",
+      "image_url": "https://img4a.coupangcdn.com/image/retail/images/11882295958108-30de4f82-1867-4071-93d7-25c907b0b370.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7674733549&itemId=20483319260&vendorItemId=87562244348&traceid=V0-113-1c780f7cb23a69ed&pt=0&slot=21"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7674733549&itemId=20483319260&vendorItemId=87562244348&traceid=V0-113-1c780f7cb23a69ed&pt=0&slot=22"
     },
     {
       "id": "deal-002",
       "category": "생활·청소용품",
-      "title": "코멧 천연펄프 키친타올 2겹 200매",
-      "original_price": 6500,
-      "sale_price": 3990,
+      "title": "코디 기름먹는 UKP 천연펄프 키친타올",
+      "original_price": 10900,
+      "sale_price": 6630,
       "discount_rate": 39,
       "rating": 4.9,
       "review_count": 11340,
-      "is_rocket": false,
-      "image_url": "https://image4.coupangcdn.com/image/retail/images/238446864521076-cfff6bc5-8d70-4fd3-86b0-6c1dcf0e3e68.jpg",
+      "is_rocket": true,
+      "image_url": "https://img2c.coupangcdn.com/image/retail/images/2267471708492632-d873ba60-fe38-46fd-9609-8828a1ea61e3.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8274844249&itemId=23851579760&vendorItemId=90874965380&traceid=V0-113-ca1d2eadfdb415fa&pt=0&slot=14"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=1055968&itemId=24706111432&vendorItemId=91715589260&traceid=V0-113-cc6ea20b0949c41c&pt=0&slot=14"
     },
     {
       "id": "deal-003",
@@ -41,9 +41,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 12760,
       "is_rocket": true,
-      "image_url": "https://img2a.coupangcdn.com/image/retail/images/438162628100863-617b0e1c-5e59-467f-b6f3-878e3eaf0e0e.jpg",
+      "image_url": "https://image5.coupangcdn.com/image/retail/images/438162628100863-617b0e1c-5e59-467f-b6f3-878e3eaf0e0e.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=6592611276&itemId=14882628499&vendorItemId=82121512372&traceid=V0-113-ab67faaa85a205c0&pt=0&slot=25"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=6592611276&itemId=14882628499&vendorItemId=82121512372&traceid=V0-113-ab67faaa85a205c0&pt=0&slot=26"
     },
     {
       "id": "deal-004",
@@ -55,9 +55,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 14180,
       "is_rocket": true,
-      "image_url": "https://image11.coupangcdn.com/image/retail/images/359047940258539-d8876fab-d62f-41c2-bfb6-eeb4b9b56d42.jpg",
+      "image_url": "https://img1a.coupangcdn.com/image/retail/images/359047940258539-d8876fab-d62f-41c2-bfb6-eeb4b9b56d42.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8776336017&itemId=25532846800&vendorItemId=92524527959&traceid=V0-113-7688066a18832747&pt=0&slot=24"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8776336017&itemId=25532846800&vendorItemId=92524527959&traceid=V0-113-7688066a18832747&pt=0&slot=25"
     },
     {
       "id": "deal-005",
@@ -68,10 +68,10 @@ window.DEALS_DATA = {
       "discount_rate": 40,
       "rating": 4.9,
       "review_count": 15600,
-      "is_rocket": false,
-      "image_url": "https://image6.coupangcdn.com/image/retail/images/2017/07/06/15/1/9e5330af-9d0e-4c5a-8cd4-eaad0f8ccde8.jpg",
+      "is_rocket": true,
+      "image_url": "https://image14.coupangcdn.com/image/retail/images/2017/07/06/15/1/9e5330af-9d0e-4c5a-8cd4-eaad0f8ccde8.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=26148164&itemId=101530350&vendorItemId=3188953819&traceid=V0-113-cc1756588e94f457&pt=0&slot=7"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=26148164&itemId=101530350&vendorItemId=3188953819&traceid=V0-113-cc1756588e94f457&pt=0&slot=10"
     },
     {
       "id": "deal-006",
@@ -83,9 +83,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 17020,
       "is_rocket": true,
-      "image_url": "https://img1c.coupangcdn.com/image/retail/images/465163625990940-6807c84f-0118-45d2-b648-9e7136731aee.jpg",
+      "image_url": "https://image9.coupangcdn.com/image/retail/images/465163625990940-6807c84f-0118-45d2-b648-9e7136731aee.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8301421541&itemId=23948604348&vendorItemId=90970343309&traceid=V0-113-1dc23f8e173b4130&pt=0&slot=25"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8301421541&itemId=23948604348&vendorItemId=90970343309&traceid=V0-113-1dc23f8e173b4130&pt=0&slot=30"
     },
     {
       "id": "deal-007",
@@ -97,23 +97,23 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 18440,
       "is_rocket": true,
-      "image_url": "https://image12.coupangcdn.com/image/retail/images/2025/10/31/14/9/5b8f3bd3-175c-41cb-be5a-1e0b553a1d5b.jpg",
+      "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/10/31/14/9/5b8f3bd3-175c-41cb-be5a-1e0b553a1d5b.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750155851&itemId=26983734657&vendorItemId=93952543362&traceid=V0-113-2693911f087d7a7b&pt=0&slot=11"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750155851&itemId=26983734657&vendorItemId=93952543362&traceid=V0-113-2693911f087d7a7b&pt=0&slot=12"
     },
     {
       "id": "deal-008",
       "category": "반려동물·펫용품",
-      "title": "탐사 실속형 배변패드",
-      "original_price": 12600,
-      "sale_price": 6190,
+      "title": "JCCOMPANY 소모 배변패드",
+      "original_price": 10600,
+      "sale_price": 5200,
       "discount_rate": 51,
       "rating": 4.9,
       "review_count": 19860,
       "is_rocket": true,
-      "image_url": "https://img1c.coupangcdn.com/image/retail/images/386688755640254-04f1dee4-b35d-4af8-8e71-816be4afdc13.jpg",
+      "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/797479006696650-4e21e4f5-bcd3-4dc6-a570-92c4a84c0f09_1750916156712.png",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7299719601&itemId=18677046089&vendorItemId=85811303945&traceid=V0-113-a654f2eb1a75f0f5&pt=0&slot=1"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8728996007&itemId=25335924473&vendorItemId=92330661981&traceid=V0-113-f4451cf2884b62b6&pt=0&slot=7"
     },
     {
       "id": "deal-009",
@@ -124,24 +124,24 @@ window.DEALS_DATA = {
       "discount_rate": 37,
       "rating": 4.9,
       "review_count": 21280,
-      "is_rocket": true,
-      "image_url": "https://image11.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
+      "is_rocket": false,
+      "image_url": "https://img3a.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
       "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9239525189&itemId=27319445737&vendorItemId=70734097756&traceid=V0-113-196384dd01c28a75&pt=0&slot=5"
     },
     {
       "id": "deal-010",
       "category": "반려동물·펫용품",
-      "title": "굿데이 강아지 건강한 육포",
+      "title": "펫어스 강아지 잡고먹개 간식 21p",
       "original_price": 21000,
-      "sale_price": 9200,
-      "discount_rate": 56,
+      "sale_price": 8370,
+      "discount_rate": 60,
       "rating": 4.9,
       "review_count": 22700,
-      "is_rocket": true,
-      "image_url": "https://image6.coupangcdn.com/image/vendor_inventory/672a/fd4464a185b03c322943334b5ede9bdccd8f4c269e094ddbec438434aa1d.jpg",
+      "is_rocket": false,
+      "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/2e1b/9cc5fe37784136d97760c26625f4c9ba0c118cdcd063a89d97314bb4dad4.jpeg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9456947062&itemId=288134311&vendorItemId=3707467603&traceid=V0-113-d50b478751b1f86e&pt=0&slot=28"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8984581352&itemId=26372825952&vendorItemId=95511240764&traceid=V0-113-a55aac0f250cd266&pt=0&slot=20"
     }
   ]
 };
