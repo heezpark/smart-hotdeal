@@ -1,7 +1,7 @@
 // 로컬 브라우저(file://) 및 정적 웹서버 모두에서 즉시 로드되도록 동기화된 데이터 파일입니다.
 window.DEALS_DATA = {
-  "updated_at": "2026-11-14",
-  "week_title": "11월 2주차 생활·육아·반려동물 실속 특가 베스트",
+  "updated_at": "2026-11-15",
+  "week_title": "11월 3주차 생활·육아·반려동물 실속 특가 베스트",
   "items": [
     {
       "id": "deal-001",
@@ -13,65 +13,65 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 9920,
       "is_rocket": true,
-      "image_url": "https://img4a.coupangcdn.com/image/retail/images/11882295958108-30de4f82-1867-4071-93d7-25c907b0b370.jpg",
+      "image_url": "https://static.coupangcdn.com/image/retail/images/11882295958108-30de4f82-1867-4071-93d7-25c907b0b370.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7674733549&itemId=20483319260&vendorItemId=87562244348&traceid=V0-113-1c780f7cb23a69ed&pt=0&slot=22"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7674733549&itemId=20483319260&vendorItemId=87562244348&traceid=V0-113-1c780f7cb23a69ed&pt=0&slot=20"
     },
     {
       "id": "deal-002",
       "category": "생활·청소용품",
-      "title": "코디 기름먹는 UKP 천연펄프 키친타올",
-      "original_price": 10900,
-      "sale_price": 6630,
+      "title": "코멧 천연펄프 키친타올 2겹 200매",
+      "original_price": 6500,
+      "sale_price": 3990,
       "discount_rate": 39,
       "rating": 4.9,
       "review_count": 11340,
       "is_rocket": true,
-      "image_url": "https://img2c.coupangcdn.com/image/retail/images/2267471708492632-d873ba60-fe38-46fd-9609-8828a1ea61e3.jpg",
+      "image_url": "https://img1c.coupangcdn.com/image/retail/images/238446864521076-cfff6bc5-8d70-4fd3-86b0-6c1dcf0e3e68.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=1055968&itemId=24706111432&vendorItemId=91715589260&traceid=V0-113-cc6ea20b0949c41c&pt=0&slot=14"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8274844249&itemId=23851579760&vendorItemId=90874965380&traceid=V0-113-ca1d2eadfdb415fa&pt=0&slot=14"
     },
     {
       "id": "deal-003",
       "category": "생활·청소용품",
-      "title": "아베나 프레쉬그립 비닐장갑 플렉스",
-      "original_price": 5200,
-      "sale_price": 2990,
+      "title": "JAJU 고무장갑 36cm",
+      "original_price": 8500,
+      "sale_price": 4950,
       "discount_rate": 42,
       "rating": 4.9,
       "review_count": 12760,
       "is_rocket": true,
-      "image_url": "https://image5.coupangcdn.com/image/retail/images/438162628100863-617b0e1c-5e59-467f-b6f3-878e3eaf0e0e.jpg",
+      "image_url": "https://img1a.coupangcdn.com/image/retail/images/879443847305675-41e47eca-0d0a-4391-8223-4c5cc3df908f.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=6592611276&itemId=14882628499&vendorItemId=82121512372&traceid=V0-113-ab67faaa85a205c0&pt=0&slot=26"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8254013310&itemId=23767140190&vendorItemId=90791469182&traceid=V0-113-2f2b3957d5800ed8&pt=0&slot=20"
     },
     {
       "id": "deal-004",
       "category": "생활·청소용품",
-      "title": "코멧 위생롤백 30 x 40 cm",
-      "original_price": 5800,
-      "sale_price": 3690,
+      "title": "코멧 위생롤백",
+      "original_price": 6500,
+      "sale_price": 4190,
       "discount_rate": 36,
       "rating": 4.9,
       "review_count": 14180,
       "is_rocket": true,
-      "image_url": "https://img1a.coupangcdn.com/image/retail/images/359047940258539-d8876fab-d62f-41c2-bfb6-eeb4b9b56d42.jpg",
+      "image_url": "https://image2.coupangcdn.com/image/1025_amir_coupang_oct_80k/54b8/56d23c3fb9238b964dd23eaa7febd23a0c38aa3d351c9e2e30dc0ccd6450.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8776336017&itemId=25532846800&vendorItemId=92524527959&traceid=V0-113-7688066a18832747&pt=0&slot=25"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8034396168&itemId=22474857621&vendorItemId=89517545820&traceid=V0-113-3cab11f7f24c86f8&pt=0&slot=25"
     },
     {
       "id": "deal-005",
       "category": "육아·출산용품",
-      "title": "베이비베어 가제무지 면 손수건 10p",
-      "original_price": 10000,
-      "sale_price": 5990,
+      "title": "오즈맘 유아동용 캐릭터 가제 손수건 10p 세트",
+      "original_price": 10700,
+      "sale_price": 6440,
       "discount_rate": 40,
       "rating": 4.9,
       "review_count": 15600,
       "is_rocket": true,
-      "image_url": "https://image14.coupangcdn.com/image/retail/images/2017/07/06/15/1/9e5330af-9d0e-4c5a-8cd4-eaad0f8ccde8.jpg",
+      "image_url": "https://static.coupangcdn.com/image/retail/images/2018/08/02/17/3/d02e0bbd-4604-4870-a5f8-a4f9fc4ebcb9.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=26148164&itemId=101530350&vendorItemId=3188953819&traceid=V0-113-cc1756588e94f457&pt=0&slot=10"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=117235005&itemId=350832708&vendorItemId=3855251040&traceid=V0-113-05f42b25740d56b7&pt=0&slot=9"
     },
     {
       "id": "deal-006",
@@ -83,23 +83,23 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 17020,
       "is_rocket": true,
-      "image_url": "https://image9.coupangcdn.com/image/retail/images/465163625990940-6807c84f-0118-45d2-b648-9e7136731aee.jpg",
+      "image_url": "https://img5a.coupangcdn.com/image/retail/images/465163625990940-6807c84f-0118-45d2-b648-9e7136731aee.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8301421541&itemId=23948604348&vendorItemId=90970343309&traceid=V0-113-1dc23f8e173b4130&pt=0&slot=30"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8301421541&itemId=23948604348&vendorItemId=90970343309&traceid=V0-113-1dc23f8e173b4130&pt=0&slot=26"
     },
     {
       "id": "deal-007",
       "category": "육아·출산용품",
-      "title": "베이비앤아이 소프트 사각 천기저귀",
-      "original_price": 30900,
-      "sale_price": 21000,
+      "title": "밤부베베 대나무 시그니처 사각 천기저귀",
+      "original_price": 56300,
+      "sale_price": 38250,
       "discount_rate": 32,
       "rating": 4.9,
       "review_count": 18440,
       "is_rocket": true,
-      "image_url": "https://image10.coupangcdn.com/image/retail/images/2025/10/31/14/9/5b8f3bd3-175c-41cb-be5a-1e0b553a1d5b.jpg",
+      "image_url": "https://image6.coupangcdn.com/image/retail/images/1140453514045880-2c658dad-9164-40c8-aa6d-af51131c309b.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750155851&itemId=26983734657&vendorItemId=93952543362&traceid=V0-113-2693911f087d7a7b&pt=0&slot=12"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750529335&itemId=24815408091&vendorItemId=79524604109&traceid=V0-113-4cb02d58e44f7c8a&pt=0&slot=8"
     },
     {
       "id": "deal-008",
@@ -111,9 +111,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 19860,
       "is_rocket": true,
-      "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/797479006696650-4e21e4f5-bcd3-4dc6-a570-92c4a84c0f09_1750916156712.png",
+      "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/797479006696650-4e21e4f5-bcd3-4dc6-a570-92c4a84c0f09_1750916156712.png",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8728996007&itemId=25335924473&vendorItemId=92330661981&traceid=V0-113-f4451cf2884b62b6&pt=0&slot=7"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8728996007&itemId=25335924473&vendorItemId=92330661981&traceid=V0-113-f4451cf2884b62b6&pt=0&slot=3"
     },
     {
       "id": "deal-009",
@@ -124,24 +124,24 @@ window.DEALS_DATA = {
       "discount_rate": 37,
       "rating": 4.9,
       "review_count": 21280,
-      "is_rocket": false,
-      "image_url": "https://img3a.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
+      "is_rocket": true,
+      "image_url": "https://image6.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9239525189&itemId=27319445737&vendorItemId=70734097756&traceid=V0-113-196384dd01c28a75&pt=0&slot=5"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9239525189&itemId=27319445737&vendorItemId=70734097756&traceid=V0-113-196384dd01c28a75&pt=0&slot=2"
     },
     {
       "id": "deal-010",
       "category": "반려동물·펫용품",
-      "title": "펫어스 강아지 잡고먹개 간식 21p",
+      "title": "듀먼 강아지 오븐 바삭 저염 수제간식",
       "original_price": 21000,
-      "sale_price": 8370,
-      "discount_rate": 60,
+      "sale_price": 6210,
+      "discount_rate": 70,
       "rating": 4.9,
       "review_count": 22700,
-      "is_rocket": false,
-      "image_url": "https://img5c.coupangcdn.com/image/vendor_inventory/2e1b/9cc5fe37784136d97760c26625f4c9ba0c118cdcd063a89d97314bb4dad4.jpeg",
+      "is_rocket": true,
+      "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/5d07/0b77994b8274aab0c2b0eac6bd5ef19d5a6cba7ad490dc040324743604a4.jpg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8984581352&itemId=26372825952&vendorItemId=95511240764&traceid=V0-113-a55aac0f250cd266&pt=0&slot=20"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8387858411&itemId=24244363675&vendorItemId=91261358160&traceid=V0-113-5a33b9b22f1f9023&pt=0&slot=30"
     }
   ]
 };
