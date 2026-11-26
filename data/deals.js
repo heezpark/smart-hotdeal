@@ -1,63 +1,63 @@
 // 로컬 브라우저(file://) 및 정적 웹서버 모두에서 즉시 로드되도록 동기화된 데이터 파일입니다.
 window.DEALS_DATA = {
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "week_title": "11월 4주차 생활·육아·반려동물 실속 특가 베스트",
   "items": [
     {
       "id": "deal-001",
       "category": "생활·청소용품",
-      "title": "블루나 본 퓨어 저자극 물티슈 캡형",
-      "original_price": 16700,
-      "sale_price": 8500,
+      "title": "코멧 아기물티슈 샤인 캡형",
+      "original_price": 13700,
+      "sale_price": 6970,
       "discount_rate": 49,
       "rating": 4.9,
       "review_count": 9920,
       "is_rocket": true,
-      "image_url": "https://image5.coupangcdn.com/image/retail/images/2147625288740083-e84f1ec9-b27b-44a7-80f3-505294b79453.jpg",
+      "image_url": "https://img5c.coupangcdn.com/image/retail/images/11882295958108-30de4f82-1867-4071-93d7-25c907b0b370.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9320256369&itemId=27623848954&vendorItemId=94586776590&traceid=V0-113-f229860d401386f6&pt=0&slot=2"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7674733549&itemId=20483319260&vendorItemId=87562244348&traceid=V0-113-1c780f7cb23a69ed&pt=0&slot=17"
     },
     {
       "id": "deal-002",
       "category": "생활·청소용품",
-      "title": "브론디 알뜰 천연펄프 키친타올",
-      "original_price": 6400,
-      "sale_price": 3890,
+      "title": "모나리자 네이처블랑 에어볼 키친타올",
+      "original_price": 6500,
+      "sale_price": 3960,
       "discount_rate": 39,
       "rating": 4.9,
       "review_count": 11340,
       "is_rocket": true,
-      "image_url": "https://image6.coupangcdn.com/image/retail/images/2025/04/08/10/9/fa263e0e-27b9-49c3-97b3-59c8e98673d6.jpg",
+      "image_url": "https://image8.coupangcdn.com/image/retail/images/21567653812693-92cffd52-c4bb-48a0-a70d-e6f5e9d53c96.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8702605046&itemId=25272272764&vendorItemId=92267985864&traceid=V0-113-ee347b97eee0fd3b&pt=0&slot=19"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=5057820147&itemId=6826536351&vendorItemId=74119169147&traceid=V0-113-3693aa6b9fbb279d&pt=0&slot=28"
     },
     {
       "id": "deal-003",
       "category": "생활·청소용품",
-      "title": "코멧 손이 편한 위생장갑",
-      "original_price": 9100,
-      "sale_price": 5280,
+      "title": "JAJU 고무장갑 36cm",
+      "original_price": 7900,
+      "sale_price": 4590,
       "discount_rate": 42,
       "rating": 4.9,
       "review_count": 12760,
       "is_rocket": true,
-      "image_url": "https://img2c.coupangcdn.com/image/retail/images/526942403074766-9f48cebd-764c-49c0-b77a-76a38de541f2.jpg",
+      "image_url": "https://img5c.coupangcdn.com/image/retail/images/879443847305675-41e47eca-0d0a-4391-8223-4c5cc3df908f.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8255612928&itemId=23774321269&vendorItemId=90798555812&traceid=V0-113-eedf29f11fed63c4&pt=0&slot=4"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8254013310&itemId=23767140190&vendorItemId=90791469182&traceid=V0-113-2f2b3957d5800ed8&pt=0&slot=21"
     },
     {
       "id": "deal-004",
       "category": "생활·청소용품",
-      "title": "글래드 프레스앤씰 매직랩 일반형",
-      "original_price": 14300,
-      "sale_price": 9150,
+      "title": "코멧 양면 버블 스펀지 수세미 핑크",
+      "original_price": 6700,
+      "sale_price": 4290,
       "discount_rate": 36,
       "rating": 4.9,
       "review_count": 14180,
       "is_rocket": true,
-      "image_url": "https://img3a.coupangcdn.com/image/retail/images/29559139165282-f705fcbf-d63e-40af-a1a0-f1d4232e2fd9.jpg",
+      "image_url": "https://image5.coupangcdn.com/image/1025_amir_coupang_oct_80k/3933/4624eb8ab8982b6dc80a53818e7e0957ff930170212235b00a5beb4ff49b.jpg",
       "ai_comment": "자주 쓰는 생활 필수 소모품! 1장·1롤당 최저 단가로 계산된 실속 가성비 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9445273260&itemId=24579112318&vendorItemId=3001897577&traceid=V0-113-1f9f7e3efe375d3c&pt=0&slot=6"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7180954892&itemId=18110930039&vendorItemId=85262568632&traceid=V0-113-49983ba685e4f3d4&pt=0&slot=29"
     },
     {
       "id": "deal-005",
@@ -69,9 +69,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 15600,
       "is_rocket": true,
-      "image_url": "https://image11.coupangcdn.com/image/retail/images/2017/07/06/15/1/9e5330af-9d0e-4c5a-8cd4-eaad0f8ccde8.jpg",
+      "image_url": "https://img3a.coupangcdn.com/image/retail/images/2017/07/06/15/1/9e5330af-9d0e-4c5a-8cd4-eaad0f8ccde8.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=26148164&itemId=101530350&vendorItemId=3188953819&traceid=V0-113-cc1756588e94f457&pt=0&slot=15"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=26148164&itemId=101530350&vendorItemId=3188953819&traceid=V0-113-cc1756588e94f457&pt=0&slot=12"
     },
     {
       "id": "deal-006",
@@ -83,9 +83,9 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 17020,
       "is_rocket": true,
-      "image_url": "https://image2.coupangcdn.com/image/retail/images/337280602122349-df246567-ad42-4aa6-b31b-5f3018a51bf5.jpg",
+      "image_url": "https://img5c.coupangcdn.com/image/retail/images/337280602122349-df246567-ad42-4aa6-b31b-5f3018a51bf5.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9535412530&itemId=28439694546&vendorItemId=95390486098&traceid=V0-113-b6e318658ae7e857&pt=0&slot=5"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9535412530&itemId=28439694546&vendorItemId=95390486098&traceid=V0-113-b6e318658ae7e857&pt=0&slot=4"
     },
     {
       "id": "deal-007",
@@ -97,51 +97,51 @@ window.DEALS_DATA = {
       "rating": 4.9,
       "review_count": 18440,
       "is_rocket": true,
-      "image_url": "https://img2a.coupangcdn.com/image/vendor_inventory/1502/786265718d20425c697686a80456687eecaa8dc1471f286b0a939d8c4bf1.jpg",
+      "image_url": "https://static.coupangcdn.com/image/vendor_inventory/1502/786265718d20425c697686a80456687eecaa8dc1471f286b0a939d8c4bf1.jpg",
       "ai_comment": "연약한 아기 피부와 위생을 생각한 실구매자 평점 4.8 이상 국민 육아 필수 특가 상품입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750155851&itemId=435716635&vendorItemId=4076551365&traceid=V0-113-2693911f087d7a7b&pt=0&slot=21"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8750155851&itemId=435716635&vendorItemId=4076551365&traceid=V0-113-2693911f087d7a7b&pt=0&slot=20"
     },
     {
       "id": "deal-008",
       "category": "반려동물·펫용품",
-      "title": "탐사 고흡수 든든패드 레몬향",
-      "original_price": 21500,
-      "sale_price": 10520,
+      "title": "JCCOMPANY 소모 배변패드",
+      "original_price": 10600,
+      "sale_price": 5200,
       "discount_rate": 51,
       "rating": 4.9,
       "review_count": 19860,
       "is_rocket": true,
-      "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/860b1529e8fbc62e5d379cbd5d851c63ef76bc35d2e3d7559fff4d007dea_1750813366909.jpg",
+      "image_url": "https://img3a.coupangcdn.com/image/vendor_inventory/image_audit/stage/manual/797479006696650-4e21e4f5-bcd3-4dc6-a570-92c4a84c0f09_1750916156712.png",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=7300635644&itemId=18681318710&vendorItemId=85815476305&traceid=V0-113-583cf4097ac5a5ff&pt=0&slot=7"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=8728996007&itemId=25335924473&vendorItemId=92330661981&traceid=V0-113-f4451cf2884b62b6&pt=0&slot=7"
     },
     {
       "id": "deal-009",
       "category": "반려동물·펫용품",
       "title": "캐츠랑 전연령 고양이 비타플러스 건식사료",
-      "original_price": 15300,
-      "sale_price": 9610,
+      "original_price": 15000,
+      "sale_price": 9420,
       "discount_rate": 37,
       "rating": 4.9,
       "review_count": 21280,
       "is_rocket": true,
-      "image_url": "https://image13.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
+      "image_url": "https://image15.coupangcdn.com/image/retail/images/165195564307482-0a177d06-3f15-45b1-8664-9181a0dc17c8.jpg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9239525189&itemId=27319445737&vendorItemId=70734097756&traceid=V0-113-196384dd01c28a75&pt=0&slot=4"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9239525189&itemId=27319445737&vendorItemId=70734097756&traceid=V0-113-196384dd01c28a75&pt=0&slot=6"
     },
     {
       "id": "deal-010",
       "category": "반려동물·펫용품",
-      "title": "이나바 챠오츄르 고양이 짜먹는 간식 20p",
+      "title": "굿데이 강아지 건강한 육포",
       "original_price": 21000,
-      "sale_price": 8100,
-      "discount_rate": 61,
+      "sale_price": 9200,
+      "discount_rate": 56,
       "rating": 4.9,
       "review_count": 22700,
       "is_rocket": true,
-      "image_url": "https://image2.coupangcdn.com/image/retail/images/186791077478468-c986c3b2-0777-490d-a796-10d9ba9ff196.jpg",
+      "image_url": "https://img2c.coupangcdn.com/image/vendor_inventory/672a/fd4464a185b03c322943334b5ede9bdccd8f4c269e094ddbec438434aa1d.jpg",
       "ai_comment": "반려견·반려묘 필수 소모품! 다둥이 가정에서도 부담 없는 대용량 가성비 최저가 추천템입니다.",
-      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9742995659&itemId=29163476606&vendorItemId=3027330767&traceid=V0-113-a96dcfde448e16fa&pt=0&slot=21"
+      "affiliate_url": "https://link.coupang.com/re/AFFSDP?lptag=AF6990786&pageKey=9456947062&itemId=288134311&vendorItemId=3707467603&traceid=V0-113-d50b478751b1f86e&pt=0&slot=25"
     }
   ]
 };
